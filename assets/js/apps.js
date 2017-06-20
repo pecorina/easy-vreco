@@ -40,5 +40,7 @@ var funcionError = function (error){
 	alert("Tenemos un problema con encontrar tu ubicación");
 }
 
-
 }
+
+
+

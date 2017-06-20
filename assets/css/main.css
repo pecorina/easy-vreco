@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0; 
+	font-family: 'Raleway', sans-serif;
 }
 
 #map{
@@ -14,11 +15,9 @@
 	border: 0;
 	font-weight: 700;
 	border-radius: 2px;
-    font-family: 'Raleway', sans-serif;
     font-size: 15px;
-   
-
 }
+
 #encuentrame, #ruta{
 	margin: 15px auto;
 	padding: 10px 15px;
@@ -27,4 +26,10 @@
 
 button:hover, button:focus{
 	outline: 0;
+}
+
+label{
+	color: white;
+	font-size: 20px;
+
 }
